@@ -1,8 +1,3 @@
-import pip
-import subprocess
-import sys
-import os
-
 
 def draw_power_plant():
     img = """          ) ) )                     ) ) )
